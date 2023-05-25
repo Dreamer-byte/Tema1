@@ -20,7 +20,6 @@ y la altura 100, el área será 500.0).
 triángulo y calcule el valor de su área y perímetro. Recuerda 
 que el área A de un triángulo puede calcularse a partir de sus 
 tres lados, a, b y c, así: 
-<image src="/formula.png" alt="Formula de Herón">
 (Prueba que tu programa funciona correctamente con este 
 ejemplo: si los lados miden 3, 5 y 7, el perímetro será 15.0 y el área 
 6.49519052838).
