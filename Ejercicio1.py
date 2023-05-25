@@ -2,7 +2,7 @@ L = float(input("Ingresa un lado del cuadrado: "))
 #Calcular el área: Lado x Lado
 A = L * L
 
-#Calcular el perimetro: Lado x 4
+#Calcular el perímetro: Lado x 4
 
 P = L * 4
 
