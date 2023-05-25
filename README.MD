@@ -1,6 +1,5 @@
 # Ejercicios tema 1
 
-
 [[lista-destacada(lavanda){
 * (1) Diseña un programa que pida el valor del lado de un cuadrado 
 y muestre el valor de su perímetro y el de su área. (Prueba que 
